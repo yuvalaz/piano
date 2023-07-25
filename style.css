@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(23, 137, 137);
+}
+div{
+    border: 1px solid;
+    border-color: brown;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+.white{
+    background-color: aliceblue;
+    width: 160px ;
+    height: 20px;
+}
+.black{
+    background-color: black;
+    width: 90px;
+    height: 18px;
+    position:absolute;
+    margin-top: -10px;
+}
+div:hover{
+    box-shadow: 2px 2px 2px #2e2e2e;
+
+}
+.white:hover{
+    background-color: rgb(255,253,250);
+    
+}
+.black{
+    baclground-color: rgb(1,1,1)
+}
