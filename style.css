@@ -20,7 +20,7 @@ div{
     margin-top: -10px;
 }
 div:hover{
-    box-shadow: 2px 2px 2px #2e2e2e;
+    box-shadow: 2px 2px 2px 2px #2e2e2e;
 
 }
 .white:hover{
