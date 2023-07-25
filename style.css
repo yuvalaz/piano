@@ -30,3 +30,21 @@ div:hover{
 .black{
     baclground-color: rgb(1,1,1)
 }
+.white:hover b{
+    display: block;
+}
+.black:hover strong{
+    display: block;
+}
+b{
+    position: relative;
+    left: 110%;
+    display: none;
+    color: blue;
+}
+strong{
+    position: relative;
+    left: 180%;
+    display: none;
+    color: blue;
+}
